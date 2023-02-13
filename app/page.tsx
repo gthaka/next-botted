@@ -32,7 +32,7 @@ export default function Home() {
           </p>
         </Link>
 
-        <Link href="bots/chatbot" className={styles.card}>
+        <Link href="bots/chat" className={styles.card}>
           <h2 className={inter.className}>
             Chat <span>-&gt;</span>
           </h2>
